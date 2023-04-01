@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633677742 source:z:\code blocks\prgm calculatrice\main.c
+	<stdio.h>
+	<stdlib.h>
+
